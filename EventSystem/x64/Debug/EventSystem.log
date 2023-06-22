@@ -1,0 +1,7 @@
+﻿  Window.cpp
+C:\Users\Mykha\Documents\Lessons video c++\SDELessons\EventSystem\Window.cpp(60,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mykha\Documents\Lessons video c++\SDELessons\EventSystem\Window.cpp(60,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mykha\Documents\Lessons video c++\SDELessons\EventSystem\Window.cpp(67,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  EventSystem.vcxproj -> C:\Users\Mykha\Documents\Lessons video c++\SDELessons\x64\Debug\EventSystem.exe
